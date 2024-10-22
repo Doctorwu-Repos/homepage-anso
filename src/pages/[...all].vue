@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <section>
     Not Found
-  </div>
+  </section>
 </template>

@@ -17,6 +17,9 @@ export default defineConfig({
     presetIcons({
       scale: 1.2,
       warn: true,
+      collections: {
+        ic: () => import('@iconify-json/ic').then(i => i.icons),
+      },
     }),
     presetWebFonts({
       fonts: {
