@@ -8,5 +8,5 @@ router.replace('/home')
 </script>
 
 <template>
-  //
+  跳转中...
 </template>
