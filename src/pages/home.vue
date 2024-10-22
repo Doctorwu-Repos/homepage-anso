@@ -12,7 +12,7 @@
     <p flex="~ justify-center items-center gap-[160px]">
       <img src="$/logo-with-cn.png" class="h-75 w-75">
       <section class="w-119 text-left text-[20px] font-500">
-        “安索”是一家从事智能防误、锁控及配网安全管理产品的研发、生产、销售和技术服务的公司。公司致力于提供高质量、安全可靠的产品，同时不断探索和创新，以满足客户的需求。
+        广州安索科技有限公司是一家从事智能防误、锁控及配网安全管理产品的研发、生产、销售和技术服务的公司。公司致力于提供高质量、安全可靠的产品，同时不断探索和创新，以满足客户的需求。
       </section>
     </p>
   </content>
